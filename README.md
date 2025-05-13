@@ -3,7 +3,7 @@
 # **Hello visitor!** </br> I'm Krzysztof 
 <img src="https://komarev.com/ghpvc/?username=Cysiuu&color=blue&style=flat-square" alt="Profile views" />
 
-## 👨‍💻 About Me
+## About Me
 
 Full Stack Developer with a passion for solving complex technical problems. Currently studying Computer Science while working on various freelance and open-source projects. Aiming to build a career in space engineering software or cybersecurity. I believe in continuous learning and applying effective learning techniques to master new technologies quickly.
 
@@ -19,17 +19,17 @@ const krzysztof = {
 };
 ```
 
-## 🚀 Current Learning Path
+## Current Learning Path
 
 I'm currently expanding my skillset in the PHP ecosystem:
 
-- 🔄 **PHP** - Deepening my knowledge of advanced concepts and best practices
-- ⚙️ **Laravel** - Building robust web applications with this powerful framework
-- 🧪 **PHPUnit** - Implementing test-driven development for reliable applications
-- 🔌 **Laravel Ecosystem** - Exploring packages like Livewire, Inertia.js, and Laravel Nova
-- 🏗️ **Design Patterns** - Applying SOLID principles and common design patterns in PHP applications
+- **PHP** - Deepening my knowledge of advanced concepts and best practices
+- **Laravel** - Building robust web applications with this powerful framework
+- **PHPUnit** - Implementing test-driven development for reliable applications
+- **Laravel Ecosystem** - Exploring packages like Livewire, Inertia.js, and Laravel Nova
+- **Design Patterns** - Applying SOLID principles and common design patterns in PHP applications
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -50,7 +50,7 @@ I'm currently expanding my skillset in the PHP ecosystem:
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-## 🔭 Experience Highlights
+## Experience Highlights
 
 - **Web3 Development** - Working with blockchain technology (Chia) and MongoDB
 - **Full Stack Development** - Creating custom web applications using Java, Spring, Python, and Flask
@@ -58,14 +58,14 @@ I'm currently expanding my skillset in the PHP ecosystem:
 - **Mobile Development** - Developing Android applications
 - **Open Source Contribution** - Actively contributing to community projects in free time
 
-## 🌱 Interests & Goals
+## Interests & Goals
 
-- 🚀 **Space Engineering** - Developing software for rockets, satellites, and space systems
-- 🔒 **Cybersecurity** - Exploring security principles and penetration testing
-- 🧠 **Effective Learning Methods** - Applying cognitive science to master new skills efficiently
-- 📚 **Open Source Development** - Contributing to projects that benefit the developer community 
+- **Space Engineering** - Developing software for rockets, satellites, and space systems
+- **Cybersecurity** - Exploring security principles and penetration testing
+- **Effective Learning Methods** - Applying cognitive science to master new skills efficiently
+- **Open Source Development** - Contributing to projects that benefit the developer community 
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/krzysztof-kozyra/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
