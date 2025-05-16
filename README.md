@@ -1,7 +1,6 @@
 
   
-# **Hello visitor!** </br> I'm Krzysztof 
-<img src="https://komarev.com/ghpvc/?username=Cysiuu&color=blue&style=flat-square" alt="Profile views" />
+# **Hello visitor!**
 
 ## About Me
 
@@ -21,13 +20,10 @@ const krzysztof = {
 
 ## Current Learning Path
 
-I'm currently expanding my skillset in the PHP ecosystem:
+I'm currently expanding my skillset in :
 
 - **PHP** - Deepening my knowledge of advanced concepts and best practices
-- **Laravel** - Building robust web applications with this powerful framework
-- **PHPUnit** - Implementing test-driven development for reliable applications
-- **Laravel Ecosystem** - Exploring packages like Livewire, Inertia.js, and Laravel Nova
-- **Design Patterns** - Applying SOLID principles and common design patterns in PHP applications
+- **Laravel & Laravel Ecosystem** - Exploring packages like Livewire, Inertia.js, and Laravel Nova
 
 ## Tech Stack
 
@@ -56,7 +52,6 @@ I'm currently expanding my skillset in the PHP ecosystem:
 - **Full Stack Development** - Creating custom web applications using Java, Spring, Python, and Flask
 - **WordPress Development** - Building websites with Elementor and Divi
 - **Mobile Development** - Developing Android applications
-- **Open Source Contribution** - Actively contributing to community projects in free time
 
 ## Interests & Goals
 
@@ -73,4 +68,7 @@ I'm currently expanding my skillset in the PHP ecosystem:
 </div>
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=krzysztofkozyra021&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=krzysztofkozyra021&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150">
+
+
