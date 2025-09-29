@@ -6,13 +6,6 @@
 
 Full Stack Developer with a passion for solving complex technical problems. Currently studying Computer Science while working on various freelance and open-source projects. Aiming to build a career in space engineering software or cybersecurity. I believe in continuous learning and applying effective learning techniques to master new technologies quickly.
 
-## Experience Highlights
-
-- **Web3 Development** - Working with blockchain technology (Chia) and MongoDB
-- **Full Stack Development** - Creating custom web applications using Java, Spring, Python, and Flask
-- **WordPress Development** - Building websites with Elementor and Divi
-- **Mobile Development** - Developing Android applications
-
 ## Interests & Goals
 
 - **Space Engineering** - Developing software for rockets, satellites, and space systems
