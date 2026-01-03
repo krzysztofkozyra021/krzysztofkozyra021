@@ -20,8 +20,4 @@ Full Stack Developer with a passion for solving complex technical problems. Curr
   <a href="mailto:krzysztof.kozyra021@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
----
-
-  <img src="https://github-readme-stats.vercel.app/api?username=krzysztofkozyra021&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150">
-
 
