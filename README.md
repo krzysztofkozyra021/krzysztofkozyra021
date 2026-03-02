@@ -4,14 +4,7 @@
 
 ## About Me
 
-Full Stack Developer with a passion for solving complex technical problems. Currently studying Computer Science while working on various freelance and open-source projects. Aiming to build a career in space engineering software or cybersecurity. I believe in continuous learning and applying effective learning techniques to master new technologies quickly.
-
-## Interests & Goals
-
-- **Space Engineering** - Developing software for rockets, satellites, and space systems
-- **Cybersecurity** - Exploring security principles and penetration testing
-- **Effective Learning Methods** - Applying cognitive science to master new skills efficiently
-- **Open Source Development** - Contributing to projects that benefit the developer community 
+Full Stack Dev with a passion for solving complex technical problems. Currently studying Computer Science while working on various freelance and open-source projects. Aiming to build a career in space engineering software or cybersecurity. I believe in continuous learning and applying effective learning techniques to master new technologies quickly.
 
 ## Let's Connect
 
